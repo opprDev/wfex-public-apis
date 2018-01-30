@@ -1,6 +1,6 @@
 # WFex: Public Weather APIs [![Build Status](https://api.travis-ci.org/opprDev/wfex-public-weather-apis.svg)](https://travis-ci.org/opprDev/wfex-public-weather-apis)
 
-<img src="assets/banner_header.png"/>
+<img src="banners/banner_header.png"/>
 
 A collective list of free Weather APIs for use in web development.
 
