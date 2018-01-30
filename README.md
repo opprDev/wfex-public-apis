@@ -31,7 +31,7 @@ Please note a passing build status indicates all listed APIs are available since
 
 ## About
 
-This repository was made based on [public-apis](https://github.com/toddmotto/public-apis) repository. Thanks to [Todd Motto](https://toddmotto.com/) ([toddmotto](https://github.com/toddmotto)) and several other [contributors](https://github.com/toddmotto/public-apis/blob/master/.github/CONTRIBUTING.md).
+This repository was made based on [public-apis](https://github.com/toddmotto/public-apis) repository. Thanks to [Todd Motto](https://toddmotto.com/) ([toddmotto](https://github.com/toddmotto)) and several other [contributors](https://github.com/toddmotto/public-apis/graphs/contributors).
 
 ### Authors
 
