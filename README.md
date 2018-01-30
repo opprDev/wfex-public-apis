@@ -1,12 +1,8 @@
-# WFex: Public Weather APIs [![Build Status](https://api.travis-ci.org/opprDev/wfex-public-weather-apis.svg)](https://travis-ci.org/opprDev/wfex-public-weather-apis)
+# WFex: Public APIs [![Build Status](https://api.travis-ci.org/opprDev/wfex-public-weather-apis.svg)](https://travis-ci.org/opprDev/wfex-public-weather-apis)
 
 <img src="banners/banner_header_color.png"/>
 
-A collective list of free Weather APIs for use in web development.
-
-A JSON encoding of all entries can be found [here](json).
-
-For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
+A collective list of free and public APIs for use in web development. A JSON encoding of all entries can be found [here](json). For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
 Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that one or more services may be unavailable at the moment.
 
@@ -34,6 +30,8 @@ Please note a passing build status indicates all listed APIs are available since
 | Yahoo! Weather | Weather     | No       | Yes   | Unknown | [Next](https://developer.yahoo.com/weather/)         |
 
 ## About
+
+This repository was made based on [public-apis](https://github.com/toddmotto/public-apis) repository. Thanks to [Todd Motto](https://toddmotto.com/) ([toddmotto](https://github.com/toddmotto)) and several other [contributors](https://github.com/toddmotto/public-apis/blob/master/.github/CONTRIBUTING.md).
 
 ### Authors
 
