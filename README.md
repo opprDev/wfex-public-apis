@@ -21,11 +21,13 @@ Please note a passing build status indicates all listed APIs are available since
 ### Weather
 | API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
 |----------------|-------------|----------|-------|---------|------------------------------------------------------|
+| AerisWeather   | Weather     | ?        | ?     | Unknown | [Next](https://www.aerisweather.com/)                |
 | Dark Sky       | Weather     | `apiKey` | Yes   | Unknown | [Next](https://darksky.net/dev/)                     |
 | MetaWeather    | Weather     | No       | Yes   | Unknown | [Next](https://www.metaweather.com/api/)             |
 | ODWeather      | Weather     | No       | No    | Unknown | [Next](http://api.oceandrivers.com/static/docs.html) |
 | OpenWeatherMap | Weather     | `apiKey` | No    | Unknown | [Next](http://openweathermap.org/api)                |
 | Weatherbit     | Weather     | `apiKey` | Yes   | Unknown | [Next](https://www.weatherbit.io/api)                |
+| Weather Source | Weather     | ?        | ?     | Unknown | [Next](https://weathersource.com/)                   |
 | Wunderground   | Weather     | `apiKey` | Yes   | Unknown | [Next](https://www.wunderground.com/weather/api/)    |
 | Yahoo! Weather | Weather     | No       | Yes   | Unknown | [Next](https://developer.yahoo.com/weather/)         |
 
