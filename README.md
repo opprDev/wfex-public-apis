@@ -8,9 +8,14 @@ Please note a passing build status indicates all listed APIs are available since
 
 ## Index
 
-* [Weather](#weather)
+* [Fires](#fires)
 * [Flora](#flora)
+* [Weather](#weather)
 
+### Fires
+| API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
+|----------------|-------------|----------|-------|---------|------------------------------------------------------|
+| Incendios      | Fires       | ?        | ?     | Unknown | [Next](https://github.com/centraldedados/incendios)  |
 
 ### Flora
 | API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
