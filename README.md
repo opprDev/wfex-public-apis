@@ -16,6 +16,7 @@ Please note a passing build status indicates all listed APIs are available since
 | API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
 |----------------|-------------|----------|-------|---------|------------------------------------------------------|
 | Incendios      | Fires       | ?        | ?     | Unknown | [Next](https://github.com/centraldedados/incendios)  |
+| Forest Fires   | Fires       | ?        | ?     | Unknown | [Next](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)  |
 
 ### Flora
 | API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
