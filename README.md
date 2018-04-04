@@ -12,30 +12,38 @@ Please note a passing build status indicates all listed APIs are available since
 * [Flora](#flora)
 * [Weather](#weather)
 
+### Data Catalog
+| API                         | Description | Auth     | HTTPS | CORS    | Link                                                             |
+|-----------------------------|-------------|----------|-------|---------|------------------------------------------------------------------|
+| Data.Gov                    | Data        | ?        | ?     | Unknown | [Next](https://catalog.data.gov/)                                |
+
 ### Fires
-| API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
-|----------------|-------------|----------|-------|---------|------------------------------------------------------|
-| Incendios      | Fires       | ?        | ?     | Unknown | [Next](https://github.com/centraldedados/incendios)  |
-| Forest Fires   | Fires       | ?        | ?     | Unknown | [Next](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)  |
+| API                         | Description | Auth     | HTTPS | CORS    | Link                                                             |
+|-----------------------------|-------------|----------|-------|---------|------------------------------------------------------------------|
+| Incendios                   | Fires       | ?        | ?     | Unknown | [Next](https://github.com/centraldedados/incendios)              |
+| Forest Fires                | Fires       | ?        | ?     | Unknown | [Next](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)     |
+| 1.88 Million US Wildfires   | Fires       | ?        | ?     | Unknown | [Next](https://www.kaggle.com/rtatman/188-million-us-wildfires)  |
+| US Territories 1870-2015    | Fires       | ?        | ?     | Unknown | [Next](https://goo.gl/vp7BfV)                                    |
+| Data.Gov Wildfire Tag       | Fires       | ?        | ?     | Unknown | [Next](https://catalog.data.gov/dataset?tags=wildfire)           |
 
 ### Flora
-| API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
-|----------------|-------------|----------|-------|---------|------------------------------------------------------|
-| GBIF           | Flora       | ?        | ?     | Unknown | [Next](https://www.gbif.org/dataset/)                |
-| Flora-On       | Flora       | ?        | ?     | Unknown | [Next](http://flora-on.pt/)                          |
+| API                         | Description | Auth     | HTTPS | CORS    | Link                                                             |
+|-----------------------------|-------------|----------|-------|---------|------------------------------------------------------------------|
+| GBIF                        | Flora       | ?        | ?     | Unknown | [Next](https://www.gbif.org/dataset/)                            |
+| Flora-On                    | Flora       | ?        | ?     | Unknown | [Next](http://flora-on.pt/)                                      |
 
 ### Weather
-| API            | Description | Auth     | HTTPS | CORS    | Link                                                 |
-|----------------|-------------|----------|-------|---------|------------------------------------------------------|
-| AerisWeather   | Weather     | ?        | ?     | Unknown | [Next](https://www.aerisweather.com/)                |
-| Dark Sky       | Weather     | `apiKey` | Yes   | Unknown | [Next](https://darksky.net/dev/)                     |
-| MetaWeather    | Weather     | No       | Yes   | Unknown | [Next](https://www.metaweather.com/api/)             |
-| ODWeather      | Weather     | No       | No    | Unknown | [Next](http://api.oceandrivers.com/static/docs.html) |
-| OpenWeatherMap | Weather     | `apiKey` | No    | Unknown | [Next](http://openweathermap.org/api)                |
-| Weatherbit     | Weather     | `apiKey` | Yes   | Unknown | [Next](https://www.weatherbit.io/api)                |
-| Weather Source | Weather     | ?        | ?     | Unknown | [Next](https://weathersource.com/)                   |
-| Wunderground   | Weather     | `apiKey` | Yes   | Unknown | [Next](https://www.wunderground.com/weather/api/)    |
-| Yahoo! Weather | Weather     | No       | Yes   | Unknown | [Next](https://developer.yahoo.com/weather/)         |
+| API                         | Description | Auth     | HTTPS | CORS    | Link                                                             |
+|-----------------------------|-------------|----------|-------|---------|------------------------------------------------------------------|
+| AerisWeather                | Weather     | ?        | ?     | Unknown | [Next](https://www.aerisweather.com/)                            |
+| Dark Sky                    | Weather     | `apiKey` | Yes   | Unknown | [Next](https://darksky.net/dev/)                                 |
+| MetaWeather                 | Weather     | No       | Yes   | Unknown | [Next](https://www.metaweather.com/api/)                         |
+| ODWeather                   | Weather     | No       | No    | Unknown | [Next](http://api.oceandrivers.com/static/docs.html)             |
+| OpenWeatherMap              | Weather     | `apiKey` | No    | Unknown | [Next](http://openweathermap.org/api)                            |
+| Weatherbit                  | Weather     | `apiKey` | Yes   | Unknown | [Next](https://www.weatherbit.io/api)                            |
+| Weather Source              | Weather     | ?        | ?     | Unknown | [Next](https://weathersource.com/)                               |
+| Wunderground                | Weather     | `apiKey` | Yes   | Unknown | [Next](https://www.wunderground.com/weather/api/)                |
+| Yahoo! Weather              | Weather     | No       | Yes   | Unknown | [Next](https://developer.yahoo.com/weather/)                     |
 
 ## About
 
